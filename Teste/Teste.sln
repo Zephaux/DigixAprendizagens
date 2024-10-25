@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 1 cs", "Aula 1 cs", "{FF889504-760A-4C8A-98A2-575C6FC67AF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tiposPrimitivos", "Aula 1 cs\tiposPrimitivos\tiposPrimitivos.csproj", "{59356A06-A59C-478A-82A9-874AA5E51509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59356A06-A59C-478A-82A9-874AA5E51509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59356A06-A59C-478A-82A9-874AA5E51509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59356A06-A59C-478A-82A9-874AA5E51509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59356A06-A59C-478A-82A9-874AA5E51509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59356A06-A59C-478A-82A9-874AA5E51509} = {FF889504-760A-4C8A-98A2-575C6FC67AF3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A522D4E2-DE03-478B-99D4-92249DE259BE}
+	EndGlobalSection
+EndGlobal
